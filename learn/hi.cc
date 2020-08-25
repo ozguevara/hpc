@@ -13,6 +13,4 @@ int main() {
     cout << "Hello word 1" << endl;
     cout << "Hello word 2" << endl;
     cout << "Hello word 3" << endl;
-    cout << "Hello word 4" << endl;
-    cout << "Hello word 5" << endl;
 } 
